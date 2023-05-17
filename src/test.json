@@ -1,0 +1,36 @@
+{"status" : 200, "data" : [{
+    "name": "Max",
+    "middlename": "Valencia",
+    "lastname": "Ortiz",
+    "position": "Fullstack Developer",
+    "company": "Innova",
+    "street": "Elena Pantoja",
+    "numExt": "521",
+    "numInt": "0",
+    "town": "Insurgentes",
+    "city": "Guadalajara",
+    "state": "Jalisco",
+    "codigoPostal": "44820",
+    "telephone": "3317047730",
+    "email": "maxvalencia@gmail.com",
+    "birthday": "2000-06-25",
+    "age": "22\n"
+},{
+    "name": "Sofia",
+    "middlename": "Mendoza",
+    "lastname": "Lopez",
+    "position": "Manager",
+    "company": "C3",
+    "street": "Independencia",
+    "numExt": "1018",
+    "numInt": "4",
+    "town": "Bosques de San Jose",
+    "city": "Tlaquepaque",
+    "state": "Jalisco",
+    "codigoPostal": "36090",
+    "telephone": "337189094",
+    "email": "c3@gmail.com",
+    "birthday": "2023-02-02",
+    "age": "22\n"
+}]
+}
